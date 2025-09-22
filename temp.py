@@ -8,6 +8,6 @@ age = st.number_input("Enter your age: ")
 st.text(age)
 
 
-#photo = st.camera_input('click your photo')
-#st.image(photo)
+photo = st.camera_input('click your photo')
+st.image(photo)
 
